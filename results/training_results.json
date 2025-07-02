@@ -1,0 +1,28 @@
+{
+  "best_model": "SGDClassifier",
+  "timestamp": "2025-07-02T15:49:08.017761",
+  "config": {
+    "test_size": 0.2,
+    "val_size": 0.2,
+    "random_state": 42,
+    "max_features": 15000,
+    "cv_folds": 5
+  },
+  "results": {
+    "SGDClassifier": {
+      "accuracy": 0.7615234375,
+      "f1_score": 0.7610665938962788,
+      "best_params": {}
+    },
+    "PassiveAggressive": {
+      "accuracy": 0.74054296875,
+      "f1_score": 0.740386090227461,
+      "best_params": {}
+    },
+    "MultinomialNB_Incremental": {
+      "accuracy": 0.76105078125,
+      "f1_score": 0.7610407215916236,
+      "best_params": {}
+    }
+  }
+}
