@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  Twitter Sentiment Analysis – Real-Time Pipeline
 
 ## Description
@@ -55,4 +55,3 @@ Real-time web app that displays:
 ---
 =======
 # twitter-sentiment-analysis
->>>>>>> 6c90d9217181b03cf096b96f858109510b70edef
